@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigation_Drawer</string>
+    <string name="nav_header_title">Shrey</string>
+    <string name="nav_header_subtitle">shreypansheriya@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="open_drawer">Open_Drawer</string>
+    <string name="close_drawer">Close_Drawer</string>
+</resources>
